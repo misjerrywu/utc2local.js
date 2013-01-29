@@ -1,3 +1,7 @@
+/**
+ * @author Jerry Wu <mis.jerrywu@gmail.com>
+ */
+
 (function($){
   $.fn.utc2local = function() {
 	
