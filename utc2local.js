@@ -68,22 +68,22 @@
 					month = 'Jun';
 					break;
 				case 6:
-					day = 'Jul';
+					month = 'Jul';
 					break;
 				case 7:
-					day = 'Aug';
+					month = 'Aug';
 					break;
 				case 8:
-					day = 'Sep';
+					month = 'Sep';
 					break;
 				case 9:
-					day = 'Oct';
+					month = 'Oct';
 					break;
 				case 10:
-					day = 'Nov';
+					month = 'Nov';
 					break;
 				case 11:
-					day = 'Dec';
+					month = 'Dec';
 					break;
 			}
 			
