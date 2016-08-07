@@ -87,7 +87,7 @@
 					break;
 			}
 			
-			$(this).html(week_day + ', '+ month + ' ' + local_datetime.getDate() + ', ' + local_datetime.getFullYear() + ' ' + local_datetime.getHours() + ':' + local_datetime.getMinutes());
+			$(this).html(week_day + ', '+ month + ' ' + local_datetime.getDate() + ', ' + local_datetime.getFullYear() + ' ' + ('0' + local_datetime.getHours()).slice(-2) + ':' + ('0' + local_datetime.getMinutes()).slice(-2));
 		});	
 	};
 	
