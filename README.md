@@ -13,7 +13,7 @@ utc2local.js is a jQuery plugin that converts UTC(+00:00) time to the user's bro
     <script type="text/javascript" src="http://code.jquery.com/jquery-latest.js"></script>
     <script type="text/javascript" src="utc2local.js"></script>
     <script type="text/javascript">
-      $(document).ready(function(){
+      $(document).ready(() => {
         $('.datetime').utc2local();
       });
     </script>
