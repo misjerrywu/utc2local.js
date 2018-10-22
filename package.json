@@ -1,5 +1,5 @@
 {
-  "name": "utc2local.js",
+  "name": "utc2local",
   "version": "1.0.1",
   "description": "utc2local.js is a jQuery plugin that converts UTC(+00:00) time to the user's browser's local time.",
   "main": "utc2local.js",
