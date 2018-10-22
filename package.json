@@ -1,0 +1,23 @@
+{
+  "name": "utc2local.js",
+  "version": "1.0.1",
+  "description": "utc2local.js is a jQuery plugin that converts UTC(+00:00) time to the user's browser's local time.",
+  "main": "utc2local.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/misjerrywu/utc2local.js.git"
+  },
+  "keywords": [
+    "jquery-plugin",
+    "ecosystem:jquery"
+  ],
+  "author": "Jerry Wu",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/misjerrywu/utc2local.js/issues"
+  },
+  "homepage": "https://github.com/misjerrywu/utc2local.js#readme"
+}
